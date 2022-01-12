@@ -1,6 +1,6 @@
 # seojk-kuids
 
-# Posted by Jeong-Kweon Seo (PhD),
+### Posted by Jeong-Kweon Seo (PhD),
 
 ## DataSet: Remote sensing - drone aerial images around photovoltaic panels
 
