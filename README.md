@@ -8,12 +8,4 @@ In 2019, the images were given by the company - Korea plant service and engineer
 
 REFERENCE
 
-[1] B.-C. Shin, J.-K. Seo,
-
-Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images, 
-
-KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS, 
-
-VOL. 14, NO. 4,
-
-Apr. 2020.
+[1] B.-C. Shin, J.-K. Seo, Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images, KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS, VOL. 14, NO. 4, Apr. 2020.
